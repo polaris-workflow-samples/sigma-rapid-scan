@@ -1,0 +1,20 @@
+# Polaris Rapid Scan for Sast types                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                   
+## Details                                                                                                                                                                                                                                         
+                                                                                                                                                                                             
+                                                                                                                                                                                                                                                   
+## Purpose                                                                                                                                                                                                                                         
+        
+                                                                                                                                                                                                                                                   
+## Recommended For                                                                                                                                                                                                                                 
+                                                                                                                                                                                     
+                                                                                                                                                                                                                                                   
+## Prerequisites & Setup                                                                                                                                                                                                                           
+                                                                                                                                                                                                                                                   
+### Required Secrets                                                                                                                                                                                                                               
+                                                                                                                                                         
+                                                                                                                                                                                                                                                   
+### Required Variables                                                                                                                                                                                                                             
+                                                                                                                                                   
+                                                                                                                                                                                                                                                   
+## Quick Links   
