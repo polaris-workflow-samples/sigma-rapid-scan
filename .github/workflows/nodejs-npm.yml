@@ -38,5 +38,3 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         polaris_assessment_types: "SAST"
         polaris_test_sast_type: "SAST_RAPID"
-
-      
